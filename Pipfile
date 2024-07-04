@@ -15,7 +15,7 @@ django-celery-beat = "==2.6.0"
 flower = "==2.0.1"
 uvicorn = {extras = ["standard"], version = "==0.30.1"}
 uvicorn-worker = "==0.2.0"
-django = "==4.2.13"
+django = "==5.0.6"
 django-environ = "==0.11.2"
 django-model-utils = "==4.5.1"
 django-allauth = {extras = ["mfa"], version = "==0.63.3"}
